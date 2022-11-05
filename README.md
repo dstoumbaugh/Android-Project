@@ -2,6 +2,6 @@ Working on the development of an Android application to help personnel manage th
 
 Looking to collaborate on ideas, suggestions, and recommendations since this my first-time using GitHub and working with Android and its operating system.
 
-Please contact me through GitHub, so I get the experience of utilize this tool, while increasing my knowledge on its capability.  
+Please contact me through GitHub, so I get the experience of utilizing this tool, while increasing my knowledge on its capabilities.  
 
 
